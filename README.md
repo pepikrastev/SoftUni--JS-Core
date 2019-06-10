@@ -1,2 +1,3 @@
 # SoftUni--JS-Core
-JS Core 2019
+JS Core May 2019
+
